@@ -1,3 +1,12 @@
 /* styles.css */
 
 /* Add styles here to customize the appearance of your app */
+
+body{
+    background: #303030;
+    color: #ffffff;
+    user-select: none;
+}
+.menu{
+    -webkit-app-region: drag;
+}
